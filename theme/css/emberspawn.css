@@ -1,5 +1,7 @@
+/* This is where i've overridden the style */
+
 div.sidebar-about p.lead{
-    font-family: "Pixel square", "PT Sans", Helvetica, Arial, sans-serif;;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;;
 }
 div.sidebar-nav{
     text-align: center;
@@ -15,20 +17,21 @@ a.sidebar-nav-item i.fa{
     margin-bottom: 0.8rem;
 }
 h1 a{
-    font-family: "Pixel square", "PT Sans", Helvetica, Arial, sans-serif;;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;;
 }
 table.commento-markdown-help pre{
     padding: 0rem;
     background-color: transparent;
 }
+/* tetradics based on #eb7a34 */
 .tetradic1{
-    color: #b5826a;
+    color: #3489eb;
 }
 .tetradic2{
-    color: #b5a76a;
+    color: #c034eb;
 }
 .tetradic3{
-    color: #9b6ab5;
+    color: #ebd634;
 }
 .hidden{
     display: none;
